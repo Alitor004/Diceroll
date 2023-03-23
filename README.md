@@ -10,7 +10,7 @@
 
 <hr>
 
-<p>Este app foi um projeto feito em parceria com a etec Do curso de Kotlin do google <a href="https://developer.android.com/codelabs/basic-android-kotlin-training-create-dice-roller-app-with-button?hl=pt-br#0">(curso aqui)<a></p>
+<p>Este app foi um projeto feito em parceria com a etec do curso de Kotlin do google <a href="https://developer.android.com/codelabs/basic-android-kotlin-training-create-dice-roller-app-with-button?hl=pt-br#0">(curso aqui)<a></p>
 <p>Tem um botão que quando clica soreteia um número e de acordo com o númer mostara um imagem que representa o número no lado do dado.</p>
 <p>Pode baixar aqui mesmo ou pode fazer seu proprio mas precisara do AndroideSudio para dodar o arquivo.</p>
 <p>Caso tenha ficado curioso ou em duvida basta <a href="https://developer.android.com/codelabs/basic-android-kotlin-training-create-dice-roller-app-with-button?hl=pt-br#0">clicar aqui<a>.</p>
