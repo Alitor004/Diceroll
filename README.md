@@ -6,8 +6,6 @@
 <img hight="20%" width="20%" src="https://user-images.githubusercontent.com/124943818/227074400-eac075bf-684c-4592-a8c0-b3daf4440678.jpg"></img>
 </div>
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-
 <hr>
 
 <p>Este app foi um projeto feito em parceria com a etec do curso de Kotlin do google <a href="https://developer.android.com/codelabs/basic-android-kotlin-training-create-dice-roller-app-with-button?hl=pt-br#0">(curso aqui)<a></p>
